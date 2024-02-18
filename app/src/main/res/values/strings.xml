@@ -1,0 +1,646 @@
+<resources>
+    <string name="app_name">DipCom</string>
+    //ACN VIDEO
+    <string name="linktosite1">
+      <a href="https://youtube.com/playlist?list=PLgTMGdUHMLDGyE7uBxdnhlzmktvXXVH7B">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite2">
+        <a href="https://youtube.com/playlist?list=PLgTMGdUHMLDGMgV846gkxaDO6pX18VlHG">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite3">
+        <a href="https://youtube.com/playlist?list=PLgTMGdUHMLDGnxgSbO9Yw5qBqhSsbdjD0">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite4">
+      <a href="https://youtube.com/playlist?list=PLgTMGdUHMLDG9v21I9X9UgTRpKoWFqVW6">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite5">
+      <a href="https://youtube.com/playlist?list=PLgTMGdUHMLDEkOtXuCr2bfN9fh4BHVH4B">Chapter 5 </a>
+    </string>
+
+    //OSY Video
+
+    <string name="linktosite6">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXDf_VsKseHrcrh9jOwAzN9">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite7">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXW0uB_YIsWVMzrVTFLa--Zj">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite8">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXX4BIooTb-Z_WdwLxARTy_o">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite9">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUinyVocAqebJaif76whiUx">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite10">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXEMaZsvaNCamcHJWUIhI8u">Chapter 5 </a>
+    </string>
+
+    <string name="linktosite11">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXPyFmQ2KxOYyJFiXMr-dXw">Chapter 6 </a>
+    </string>
+
+    //STE Video
+
+
+    <string name="linktosite12">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWw8gyUgpk68LwlIX6IK2m5">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite13">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXQWobMUh-0M1Oc4O2wviuQ">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite14">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVbnvBVcKdKu8E3nK8dq23Y">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite15">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXU3LMQMv25INTm4yxxGT-Kl">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite16">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUizZgq3Iqtp8cMY39ncDqM">Chapter 5 </a>
+    </string>
+
+
+    //AJP Videos
+
+
+    <string name="linktosite17">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVQJjLe5GyRf2_c1u31ov0X">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite18">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXsGV2mWbfyqrfYrAjV3wAM">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite19">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUdLOCQVjRfNxJ0FsYBmRE_">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite20">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWfx1ebFlEYaj-NLN99KHQw">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite21">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXX6Teb8BzfzkLaE7GZej6RV">Chapter 5 </a>
+    </string>
+
+    <string name="linktosite22">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVJurQDIwl-kEEKVTqfXIOj">Chapter 6 </a>
+    </string>
+
+
+    //EST Video
+
+    <string name="linktosite23">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXX1j60gjS6x5lnie9l-_-Zc">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite24">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWfM7L_NtC_568NsuzB7nC0">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite25">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUVNNU4DxTKoVrTJM97z4iy">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite26">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXW8i79vI59NfO0jDsyTlEbj">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite27">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVlRgj_elThoI_1xTpaRVD5">Chapter 5 </a>
+    </string>
+
+    //java video
+
+
+    <string name="linktosite28">
+      <a href="https://youtube.com/playlist?list=PLxysGF51I4e-1sRn_UVk8QNXrvz-c-aiR">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite29">
+        <a href="https://youtube.com/playlist?list=PLxysGF51I4e9D2htLzjIcFN0NdgR3G-CW">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite30">
+        <a href="https://youtube.com/playlist?list=PLxysGF51I4e9RDObA03SLY7V8knR8penm">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite31">
+      <a href="https://youtube.com/playlist?list=PLxysGF51I4e9rbCFbHwUKc8rw3wG-uMNR">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite32">
+      <a href="https://youtube.com/playlist?list=PLxysGF51I4e9rCVOjfE7BpatQjoRVTPEl">Chapter 5 </a>
+    </string>
+
+    <string name="linktosite33">
+      <a href="https://youtube.com/playlist?list=PLxysGF51I4e_r9bbKqHLuxpYdQeGpThpf">Chapter 6 </a>
+    </string>
+
+    //SEN VIDEOS
+
+
+    <string name="linktosite34">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXW8ZUdR1g0ZRMGRuakYK-fO">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite35">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXNrWq8iKfb3l5YCsLP_71R">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite36">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXGmh9m3I2qWX8qOaCIIfb6">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite37">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWWxL2AX3lVtT1nowprpQNW">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite38">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVWTpA253oGB3vt7jBhoKMl">Chapter 5 </a>
+    </string>
+
+    //DCC video
+
+    <string name="linktosite39">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVo-f9Nq0VYgzmcziyX3eBH">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite40">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWLgZtnOFfJjIzmFCnuM0vD">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite41">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVWl4JIz4IZhvd8MyW5LMrk">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite42">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVs_6DXcfrqaG09bpltzxFO">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite43">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWXrVDDWADFlIg5hgNm3RlN">Chapter 5 </a>
+    </string>
+
+    //MIC VIDEO
+
+    <string name="linktosite44">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXOwbpDJ2HFye-RcvgeqaMw">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite45">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXYTJI_6ZftMGILWgcKk16g">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite46">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVrwY6AkBxmgu_ViPplbPjC">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite47">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXtqSYdSiTodwNHREzX9MFW">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite48">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXfG7sJAdYwnmEKw2EUDxjd">Chapter 5 </a>
+    </string>
+
+
+    //DTE Video
+
+
+    <string name="linktosite49">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVatYPQHiNjfVIo6VbpNNNF">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite50">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXBCJERNXIdL_M_uoGOPtiU">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite51">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXV2yLuAZ8IlXtzkjpVCti0L">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite52">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWqojfr5EHuBeYcEei6hWDD">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite53">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUeq3pN8a6cSEgRdebHBRzE">Chapter 5 </a>
+    </string>
+
+
+    //DSU Videos
+
+
+    <string name="linktosite54">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUFBPVbipnY9oTvzU3ifDw4">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite55">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXaAaMn1X0Nm3px_rksFK6g">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite56">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUKDnr_Ugny_J3R2Bo4yF-I">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite57">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUF2793ew8NA9kL12Ubv8AL">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite58">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUxNbaXO7b7zFc0_Ntucf44">Chapter 5 </a>
+    </string>
+
+
+    //CGR Videos
+
+    <string name="linktosite59">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVRxXT03UBdDnxX7tCgU4ic">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite60">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXW8rXI12sbj6z4xGDG2wJeD">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite61">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXW1n_S0iwdke1r1zFEkCWRQ">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite62">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXztKOeaAW6n68rF4SPTiuZ">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite63">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXG9fpcEJBMJd-YWeTYfWd2">Chapter 5 </a>
+    </string>
+
+
+    //OOP Videos
+
+    <string name="linktosite64">
+        <a href="https://youtu.be/AEo4KgwKYoU">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite65">
+        <a href="https://youtu.be/7pPtIFn8H48">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite66">
+      <a href="https://youtu.be/zDLzfljx7Lo">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite67">
+      <a href="https://youtu.be/C0uSDpk5zbk">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite68">
+      <a href="https://youtu.be/eAiW4JM1Ghc">Chapter 5 </a>
+    </string>
+
+
+    //DMS Videos
+
+
+    <string name="linktosite69">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXWia9DQU-5Vub3VdClWs_L">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite70">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVY3UyvQYFGDZEUu26QxO_6">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite71">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXX-x5jgpYJU6gZN27oLC5I5">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite72">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXa5JiIbPGX2E50NXHlop5d">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite73">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXu1IK3U1nWIjh0T5hVPiie">Chapter 5 </a>
+    </string>
+
+
+    //MAD Videos
+
+
+    <string name="linktosite74">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXV2094zECXuj5nxLRQIrsJG">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite75">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWXz09h5RT1zZbKxuiLeOBj">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite76">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXtFXf7R8O1QblzYFK1Y_pB">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite77">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXjD2KwFDxcTSQ6GbTVTa4V">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite78">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXV2ZKgddRTumhTC1vrV5bWV">Chapter 5 </a>
+    </string>
+
+    <string name="linktosite79">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXGBf9_YhhJZs4rB09uY8OF">Chapter 6 </a>
+    </string>
+
+
+    //Python Videos
+
+
+    <string name="linktosite80">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUm4oy-iKR8tDIab5g7Uri9">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite81">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXt63dEO17A3rDrlUiogVYJ">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite82">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWzprawqPHiBpdrX5nN2-rz">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite83">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUA-Ad1urPDVpoM1aJJftYw">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite84">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXURwn66p4YVrZ5vR9EAJNYO">Chapter 5 </a>
+    </string>
+
+    <string name="linktosite85">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWPih2_qJtt4fcKAfRS3lfz">Chapter 6 </a>
+    </string>
+
+
+    //NIS Videos
+
+
+    <string name="linktosite86">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUAnWLJYMzyus-s91cKDZzV">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite87">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWlxS3kJSrrEa1VypVqBudd">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite88">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXW2UAti3jGMh-TR2yiVO3sz">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite89">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWF9ENSaoUqp4TUvnp2Tkrx">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite90">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVRMg6uN2qCvrlBsqo7f4pm">Chapter 5 </a>
+    </string>
+
+
+    //ETI Videos
+
+
+    <string name="linktosite91">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUx7m4b4CEjd6zz9FmsENIQ">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite92">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVuoEBlCnLHdk3bTfec_QkJ">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite93">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVswfHmJ8wy2mDGwtVHXuYw">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite94">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXv_OyBjqa6K1wYuyh59U4a">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite95">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXU_xn7EDa5FbEDQ_1hAhlVm">Chapter 5 </a>
+    </string>
+
+    <string name="linktosite96">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVdENlFZveon5QapvTfHs2j">Chapter 6 </a>
+    </string>
+
+
+    //MAN VIDEOS
+
+
+    <string name="linktosite97">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXX6GV8Rw9VJ-R_XU82-HX6C">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite98">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXdLktpYpNab5sm2t2VzJ84">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite99">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWt5MqKIU6-PbGEZrdARAKM">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite100">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWum6z3ZzWp8dOzCCqYQ9yx">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite101">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWrZTKIEb1t_99BJmkpeEza">Chapter 5 </a>
+    </string>
+
+
+    //PCI Videos
+
+    <string name="linktosite102">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXHapiQfq_mV7Zkr97JHOew">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite103">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXIoH-fsx4OIdgxOh7V3xk3">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite104">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVDw--HXiRXTiCu01ajbRBm">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite105">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWj1-m9Azv-ca24J7vB7cls">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite106">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVs4eekn1adSvAeZ07y2u2h">Chapter 5 </a>
+    </string>
+
+    <string name="linktosite107">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXU_QIb73IVd3DnaalN5918o">Chapter 6 </a>
+    </string>
+
+
+    //ENG Videos
+
+    <string name="linktosite108">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXV0TmFZ3qzjgkiy9mhKujYZ">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite109">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUkzq7l5WEy_pYMY4X1ILbH">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite110">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVVGJwPG3Q1s7ejOz8wFzYi">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite111">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXX9r9UJohhSXlj_ywLFwBON">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite112">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVXq5-dLJV8MZbye4cslWLx">Chapter 5 </a>
+    </string>
+
+
+    //BSC Videos
+
+    <string name="linktosite113">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXV7qBDKLcqp8bT60baPqLt1">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite114">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUYZyQJ5EWGsjlMgTCKadDs">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite115">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWPKS9Up8hSyFJkB4PXtUbB">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite116">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWOWKyT9jE3wzTUArAyd5TG">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite117">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVygfAE40dQyevZUmM5Mz_f">Chapter 5 </a>
+    </string>
+
+    <string name="linktosite118">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUZrGGULsandVSXkjj4WnMH">Chapter 6 </a>
+    </string>
+
+
+    //M1 Videos
+
+
+    <string name="linktosite119">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXMG6i3kaSnY5Co6W1eTyH-">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite120">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXX2NoWtTOppa-EXnHaUxOF6">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite121">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWKsc02fozYZnyjrraqXWfV">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite122">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVy3oZm_Nr0vxPR2vt46Bhr">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite123">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXY1uVUMdiZ3EChbS8vpDbl">Chapter 5 </a>
+    </string>
+
+
+    //BEL Videos
+
+
+    <string name="linktosite124">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUW3vWG3OyJsOA4r1sesJ5D">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite125">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXX9NfGLy0PzxieC3BG2wCPc">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite126">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXO9bk1BxaYOEW26j3bwl3_">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite127">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUd_Jm7BDCpjN_5ivcUyiSO">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite128">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWgHTx6J5oRYnRhkR6fOOKL">Chapter 5 </a>
+    </string>
+
+
+    //M2 Videos
+
+
+    <string name="linktosite129">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUW8TKs0kAcTE8QE96W2Ab5">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite130">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUDlfgdip6EH0RJeil8pk31">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite131">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVDRWhIw4LOl8DBClFf5jHg">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite132">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXUXwsbWMNvhFSmpN96s6bqJ">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite133">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXp_LoSWyVvQD9ft8D7iz0e">Chapter 5 </a>
+    </string>
+
+
+    //EEC Videos
+
+
+    <string name="linktosite134">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXVik-kx4a2yL31yghZkgrXc">Chapter 1 </a>
+    </string>
+
+    <string name="linktosite135">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXU5OhP3arnb4T4avEMp10j9">Chapter 2 </a>
+    </string>
+
+    <string name="linktosite136">
+        <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXWmXeuSTn5f02yr7_Z7O-6k">Chapter 3 </a>
+    </string>
+
+    <string name="linktosite137">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXTmVSTih7ntsLHNd-V3meY">Chapter 4 </a>
+    </string>
+
+    <string name="linktosite138">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXR2JIhq9AWKtuzxVs_IzNt">Chapter 5 </a>
+    </string>
+
+    <string name="linktosite139">
+      <a href="https://youtube.com/playlist?list=PL4j5MEqRtXXXoQ67ggbzST-qwgqp8rB33">Chapter 6 </a>
+    </string>
+
+
+</resources>

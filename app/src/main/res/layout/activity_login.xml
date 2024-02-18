@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".login"
+    android:padding="10dp"
+    android:background="@drawable/blu1"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        >
+
+
+        <ImageView
+            android:id="@+id/imageview"
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/g49"></ImageView>
+
+    <!--    <ImageView-->
+    <!--        android:id="@+id/imageview"-->
+    <!--        android:layout_width="250dp"-->
+    <!--        android:layout_height="250dp"-->
+    <!--        android:layout_marginTop="20dp"-->
+    <!--        android:layout_centerHorizontal="true"-->
+    <!--        android:src="@drawable/g49"></ImageView>-->
+
+
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageview"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/style"
+            android:drawableLeft="@drawable/ic_baseline_account_circle_24"
+            android:drawablePadding="5dp"
+            android:hint="Enter Email"
+            android:padding="15dp"></EditText>
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/username"
+           android:layout_margin="20dp"
+            android:background="@drawable/style"
+            android:drawableLeft="@drawable/ic_baseline_lock_24"
+            android:drawablePadding="5dp"
+            android:hint="Enter Password"
+            android:inputType="textPassword"
+            android:padding="15dp"
+           ></EditText>
+
+
+        <CheckBox
+            android:id="@+id/showpass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/password"
+            android:layout_marginLeft="20dp"
+            android:text="show password"
+            android:textColor="#ffffff"></CheckBox>
+
+        <Button
+            android:id="@+id/bt_log"
+            android:layout_width="150dp"
+            android:layout_height="65dp"
+            android:layout_below="@+id/showpass"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#ff9933"
+            android:text="LOGIN"
+            android:textSize="20dp">
+
+        </Button>
+
+
+    <TextView
+        android:id="@+id/tvlog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="120dp"
+        android:text="Register Here"
+        android:textColor="#151a7b"
+        android:textSize="20dp"
+        android:layout_below="@+id/bt_log"
+        android:textStyle="bold"
+
+        />
+
+
+
+
+    <!--    <LinearLayout-->
+    <!--        android:layout_marginLeft="30dp"-->
+    <!--        android:layout_marginTop="200dp"-->
+    <!--        android:layout_width="350dp"-->
+    <!--        android:layout_height="350dp"-->
+    <!--        android:orientation="vertical"-->
+    <!--        android:background="@drawable/log1">-->
+
+    <!--        <EditText-->
+    <!--            android:hint="Email"-->
+    <!--            android:id="@+id/username"-->
+    <!--            android:drawablePadding="5dp"-->
+    <!--            android:paddingLeft="4dp"-->
+    <!--            android:background="#f2f2f2"-->
+    <!--            android:drawableLeft="@drawable/ic_baseline_account_circle_24"-->
+    <!--            android:layout_width="315dp"-->
+    <!--            android:layout_height="52dp"-->
+    <!--            android:translationX="17dp"-->
+    <!--            android:translationY="74dp"-->
+    <!--            />-->
+    <!--        <EditText-->
+    <!--            android:hint="Password"-->
+    <!--            android:id="@+id/password"-->
+    <!--            android:paddingLeft="4dp"-->
+    <!--            android:drawableLeft="@drawable/ic_baseline_lock_24"-->
+    <!--            android:background="#f2f2f2"-->
+    <!--            android:layout_width="315dp"-->
+    <!--            android:drawablePadding="10dp"-->
+    <!--            android:layout_height="52dp"-->
+    <!--            android:translationX="17dp"-->
+    <!--            android:translationY="91dp"-->
+    <!--            />-->
+
+    <!--        <Button-->
+    <!--            android:id="@+id/bt_log"-->
+    <!--            android:layout_width="260dp"-->
+    <!--            android:layout_height="65dp"-->
+    <!--            android:text="SIGN-IN"-->
+    <!--            android:translationX="45dp"-->
+    <!--            android:translationY="102dp"-->
+    <!--            android:backgroundTint="#ff9933"-->
+    <!--            />-->
+
+    <!--        <TextView-->
+    <!--            android:layout_width="wrap_content"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:text="Register"-->
+    <!--            android:id="@+id/tvlog"-->
+    <!--            android:textColor="#ff9933"-->
+    <!--            android:textSize="15dp"-->
+    <!--            android:textStyle="bold"-->
+    <!--            android:translationX="220dp"-->
+    <!--            android:translationY="110dp"/>-->
+
+    <!--    </LinearLayout>-->
+
+    </RelativeLayout>
+
+</ScrollView>
+
+
