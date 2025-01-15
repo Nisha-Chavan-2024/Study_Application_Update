@@ -4,7 +4,7 @@ Welcome to the Study Material Application — your one-stop solution for accessi
 
 ## 🌟 Overview
 
-This Android-based application, developed using Android Studio and **Java**, serves as a comprehensive platform for diploma students to access:  
+This Android-based application, developed using **Android Studio** and **Java**, serves as a comprehensive platform for diploma students to access:  
 - **Notes**: Well-organized and syllabus-specific notes for effective learning.  
 - **Videos**: Curated educational videos to enhance conceptual clarity.  
 - **MCQs**: Multiple-choice questions to aid in exam preparation.  
@@ -30,7 +30,7 @@ This Android-based application, developed using Android Studio and **Java**, ser
 
 - **Personalized Learning**: Tailored study material categorized by subjects and topics.  
 - **Collaboration with Experts**: Content is verified and aligned with the syllabus.  
-- **Community Impact**: Sponsored by **Pimpri Chinchwad College of Engineering (PCCOE)**, this app aims to empower diploma students with the right resources at their fingertips.  
+- **Community Impact**: Sponsored by **Shri Vitthal Education and Research Institute College of Engineering(Polytechnic),(SVERI)**, this app aims to empower diploma students with the right resources at their fingertips.  
 
 ## 🎯 Objectives  
 
@@ -40,7 +40,7 @@ This Android-based application, developed using Android Studio and **Java**, ser
 
 ## 📷 Screenshots  
 
-![Home Screen](link-to-screenshot)  
+![](![Screenshot_20250115-162223_DipCom](https://github.com/user-attachments/assets/acf2bb40-d6d5-43e7-b616-32e0d136c9c3))  
 ![Notes Section](link-to-screenshot)  
 ![MCQ Section](link-to-screenshot)  
 
@@ -53,7 +53,7 @@ This Android-based application, developed using Android Studio and **Java**, ser
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/study-material-app.git  
+   git clone https://github.com/Nisha-Chavan-2024/Study_Application_Update.git
    ```  
 2. Open the project in **Android Studio**.  
 3. Sync Gradle and build the project.  
@@ -70,6 +70,6 @@ Contributions are welcome! If you'd like to suggest improvements or report issue
 
 ## 🌐 Connect  
 
-- **Email**: [nishachavan@example.com](mailto:nishachavan@example.com)  
-- **GitHub**: [github.com/nisha-chavan](https://github.com/nisha-chavan)  
+- **Email**: [nishachavan@example.com](mailto:chavannisha2020@gmail.com)  
+- **GitHub**: [github.com/nisha-chavan](https://github.com/Nisha-Chavan-2024)  
 - **LinkedIn**: [linkedin.com/in/nisha-chavan](https://linkedin.com/in/nisha-chavan)  
