@@ -68,6 +68,6 @@ Contributions are welcome! If you'd like to suggest improvements or report issue
 
 ## 🌐 Connect  
 
-- **Email**: [nishachavan@example.com](mailto:chavannisha2020@gmail.com)  
-- **GitHub**: [github.com/nisha-chavan](https://github.com/Nisha-Chavan-2024)  
-- **LinkedIn**: [linkedin.com/in/nisha-chavan](https://linkedin.com/in/nisha-chavan)  
+- **Email**: [nishachavan2020@example.com](mailto:chavannisha2020@gmail.com)  
+- **GitHub**: [GitHub](https://github.com/Nisha-Chavan-2024)  
+- **LinkedIn**: [Linkedin](https://linkedin.com/in/nisha-chavan)  
