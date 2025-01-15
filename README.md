@@ -40,7 +40,7 @@ This Android-based application, developed using **Android Studio** and **Java**,
 
 ## 📷 Screenshots  
 
-![](![Screenshot_20250115-162223_DipCom](https://github.com/user-attachments/assets/acf2bb40-d6d5-43e7-b616-32e0d136c9c3))  
+![Screenshot_20250115-162223_DipCom](https://github.com/user-attachments/assets/acf2bb40-d6d5-43e7-b616-32e0d136c9c3)
 ![Notes Section](link-to-screenshot)  
 ![MCQ Section](link-to-screenshot)  
 
